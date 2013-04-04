@@ -1,0 +1,1 @@
+A Meteorite package wrapper for [Spin.js](https://github.com/fgnass/spin.js).
