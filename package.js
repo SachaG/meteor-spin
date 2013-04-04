@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.use('handlebars', 'client');
-  
-  api.add_files(['spin.js', 'spin.html', 'spin_controller.js'], 'client');
+
+  api.add_files(['lib/spin.js', 'lib/spin.html'], 'client');
 });
