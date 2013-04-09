@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files(['lib/spin.js'], 'client');
+  api.add_files(['lib/spin.js', 'lib/spinner.html', 'lib/spinner.js'], 'client');
 });
