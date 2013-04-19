@@ -4,5 +4,5 @@
   "homepage": "https://github.com/sachag/meteor-spin",
   "author": "Sacha Greif",
   "version": "0.1.0",
-  "git": "https://github.com/sachag/meteor-spin.git"
+  "git": "git://github.com/SachaG/meteor-spin.git"
 }
