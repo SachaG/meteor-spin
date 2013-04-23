@@ -3,6 +3,6 @@
   "description": "Simple spinner package for Meteor",
   "homepage": "https://github.com/sachag/meteor-spin",
   "author": "Sacha Greif",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "git": "git://github.com/SachaG/meteor-spin.git"
 }
