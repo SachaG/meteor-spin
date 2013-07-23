@@ -2,7 +2,13 @@ A Meteorite package wrapper for [Spin.js](https://github.com/fgnass/spin.js).
 
 ---
 
-Configure the spinner by setting the `Meteor.Spinner.options` object.
+Simply add the spinner to your app as you would with any other template:
+
+```
+{{> spinner}}
+```
+
+Additionally, you can configure the spinner by setting the `Meteor.Spinner.options` object.
 
 ```
 Meteor.Spinner.options = {
