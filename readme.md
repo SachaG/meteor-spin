@@ -2,6 +2,12 @@ A Meteorite package wrapper for [Spin.js](https://github.com/fgnass/spin.js).
 
 ---
 
+### Install
+
+`mrt add spin`
+
+### Usage
+
 Simply add the spinner to your app as you would with any other template:
 
 ```
