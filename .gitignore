@@ -2,3 +2,4 @@
 *.sublime-workspace
 /smart.lock
 .build*
+.npm*
