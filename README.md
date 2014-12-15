@@ -1,22 +1,22 @@
-A Meteorite package wrapper for [Spin.js](https://github.com/fgnass/spin.js).
+A Meteor package wrapper for [Spin.js](https://github.com/fgnass/spin.js) via `Npm.depends()`.
 
 ---
 
 ### Install
 
-`mrt add spin`
+`meteor add sacha:spin`
 
 ### Usage
 
 Simply add the spinner to your app as you would with any other template:
 
-```
+```handlebars
 {{> spinner}}
 ```
 
 Additionally, you can configure the spinner by setting the `Meteor.Spinner.options` object.
 
-```
+```js
 Meteor.Spinner.options = {
     lines: 13, // The number of lines to draw
     length: 10, // The length of each line
