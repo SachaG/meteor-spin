@@ -1,8 +1,0 @@
-{
-  "name": "spin",
-  "description": "Simple spinner package for Meteor",
-  "homepage": "https://github.com/sachag/meteor-spin",
-  "author": "Sacha Greif",
-  "version": "2.0.4",
-  "git": "https://github.com/SachaG/meteor-spin.git"
-}
