@@ -1,7 +1,7 @@
 Package.describe({
   name: 'sacha:spin',
   summary: 'Simple spinner package for Meteor',
-  version: '2.0.1' + '_1',
+  version: '2.3.1',
   git: 'https://github.com/sachag/meteor-spin'
 });
 
