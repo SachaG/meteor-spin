@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "spin.js": "2.0.1"
+  "spin.js": "2.3.1"
 });
 
 Package.onUse(function (api, where) {
