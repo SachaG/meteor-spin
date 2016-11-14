@@ -1,3 +1,5 @@
+**NOTE: now the Meteor supports NPM natively, there is no good reason to use this package anymore. Just use the original NPM package. **
+
 A Meteor package wrapper for [Spin.js](https://github.com/fgnass/spin.js) via `Npm.depends()`.
 
 ---
